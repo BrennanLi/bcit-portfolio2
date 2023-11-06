@@ -1,0 +1,39 @@
+html{
+    background-color: black
+}
+p{
+    color: white;
+}
+li{
+    float: left;
+    padding: 10px 20px;
+    border: solid white 1px;
+}
+ul {
+    display: inline;
+    list-style: none;
+    color: white;
+}
+.title{
+    color: white;
+    text-align: left;
+}
+.entry1{
+    border: solid white 1px;
+    padding: 20px 20px;
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.Bhome{
+    text-align: center;
+    color: white;
+    font-size: 86px;
+}
+.subheading{
+    text-align: center;
+    color: white;
+    margin: 30px 30px;
+}

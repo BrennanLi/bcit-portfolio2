@@ -1,0 +1,77 @@
+@media screen {
+}
+.container{
+    text-align: center;
+}
+
+.name {
+    color: white;
+    text-align: center;
+    font-size: 300%;
+    font-family: fantasy, copperplate, sans-serif;
+    text-align: center;
+}
+h2 {
+    color: white;
+}
+html{
+    background-color: black;
+}
+ul {
+    display: inline;
+    list-style: none;
+    color: white;
+}
+li{
+    float: left;
+    padding: 10px 20px;
+    border: solid white 1px;
+}
+
+.Info{
+    display: inline-block;
+    position: absolute;
+    
+}
+p{
+    color: white;
+    font-size: 26px;
+    width: 30%;
+    height: 10%;
+    border: white solid;
+    padding: 10px 20px;
+    margin: 20px 10px;
+    
+}
+article{
+    color: white;
+    font-size: 21px;
+    padding: 20px 20px;
+}
+footer{
+    background-color: white solid;
+}
+.container2{
+    display: flexbox;
+    flex-direction: column;
+}
+.currenteducation{
+    text-align: center;
+}
+p.title{
+    text-align: center;
+}
+p.previousedu{
+    text-align: center;
+}
+p.previousjob{
+    text-align: center;
+}
+p.classes{
+    padding: 30px 30px;
+}
+.container3{
+    display: flex;
+    flex-direction: row;
+    align-items: stretch;
+}
